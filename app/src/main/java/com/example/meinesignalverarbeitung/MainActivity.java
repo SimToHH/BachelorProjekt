@@ -28,6 +28,7 @@ import java.util.UUID;
 public class MainActivity extends AppCompatActivity{
 
     //Declare variables
+    int testvariable;
     static String pathSave = "";
     static String audioName="";
     int MaximalAmplitude = 0;
