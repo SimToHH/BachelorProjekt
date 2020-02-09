@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity{
 
     //Declare variables
     int testvariable;
+    int test2;
     static String pathSave = "";
     static String audioName="";
     int MaximalAmplitude = 0;
